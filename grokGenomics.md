@@ -5,10 +5,10 @@
 A quick refresher on cell biology.
 
 -----
- 
+
 ## Cell Biology
 
-While not delving *too* much into Chemistry, the below will be a summarized example of cell biology and it's mechanisms. 
+While not delving *too* much into Chemistry, the below will be a summarized example of cell biology and it's mechanisms.
 
 ### Primary Nucleobases -
 
