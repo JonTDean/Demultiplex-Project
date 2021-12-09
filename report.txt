@@ -1,0 +1,350 @@
+
+Sample Abbey has a `Black Mold` which is caused by a mutation in `position 13` occuring at a frequency of `36.520743919885554%` in sequence `seq60602` over the course of `25528 reads`.
+* The wild type nucleotide is G and the mutation type nucleotide is C.
+	i) Patient Name: Abbey
+	ii) Black Mold is Mutant-Type
+	iii) Mutant Nucleotide: C at Position: 13 Sequence: seq60602 occuring at a frequency of 36.520743919885554% at 25528 reads
+	iv) Wild Type: G point mutated at Position-13 to Mutant Type: C
+
+Sample Adelaide has a `Orange Mold` which is caused by a mutation in `position 83` occuring at a frequency of `36.51642335766423%` in sequence `seq41808` over the course of `20011 reads`.
+* The wild type nucleotide is G and the mutation type nucleotide is C.
+	i) Patient Name: Adelaide
+	ii) Orange Mold is Mutant-Type
+	iii) Mutant Nucleotide: C at Position: 83 Sequence: seq41808 occuring at a frequency of 36.51642335766423% at 20011 reads
+	iv) Wild Type: G point mutated at Position-83 to Mutant Type: C
+
+Sample Alana has a `Black Mold` which is caused by a mutation in `position 13` occuring at a frequency of `36.47504302925989%` in sequence `seq72023` over the course of `21192 reads`.
+* The wild type nucleotide is G and the mutation type nucleotide is C.
+	i) Patient Name: Alana
+	ii) Black Mold is Mutant-Type
+	iii) Mutant Nucleotide: C at Position: 13 Sequence: seq72023 occuring at a frequency of 36.47504302925989% at 21192 reads
+	iv) Wild Type: G point mutated at Position-13 to Mutant Type: C
+
+Sample Arabella has a `Black Mold` which is caused by a mutation in `position 13` occuring at a frequency of `36.49518304431599%` in sequence `seq30344` over the course of `18941 reads`.
+* The wild type nucleotide is G and the mutation type nucleotide is C.
+	i) Patient Name: Arabella
+	ii) Black Mold is Mutant-Type
+	iii) Mutant Nucleotide: C at Position: 13 Sequence: seq30344 occuring at a frequency of 36.49518304431599% at 18941 reads
+	iv) Wild Type: G point mutated at Position-13 to Mutant Type: C
+
+Sample Arianna has a `Orange Mold` which is caused by a mutation in `position 83` occuring at a frequency of `36.451827242524914%` in sequence `seq85386` over the course of `10972 reads`.
+* The wild type nucleotide is G and the mutation type nucleotide is C.
+	i) Patient Name: Arianna
+	ii) Orange Mold is Mutant-Type
+	iii) Mutant Nucleotide: C at Position: 83 Sequence: seq85386 occuring at a frequency of 36.451827242524914% at 10972 reads
+	iv) Wild Type: G point mutated at Position-83 to Mutant Type: C
+
+Sample Bobby has a `Black Mold` which is caused by a mutation in `position 13` occuring at a frequency of `36.52713178294574%` in sequence `seq92197` over the course of `14136 reads`.
+* The wild type nucleotide is G and the mutation type nucleotide is C.
+	i) Patient Name: Bobby
+	ii) Black Mold is Mutant-Type
+	iii) Mutant Nucleotide: C at Position: 13 Sequence: seq92197 occuring at a frequency of 36.52713178294574% at 14136 reads
+	iv) Wild Type: G point mutated at Position-13 to Mutant Type: C
+
+Sample Brayden has a `Black Mold` which is caused by a mutation in `position 13` occuring at a frequency of `36.485865724381625%` in sequence `seq43204` over the course of `20651 reads`.
+* The wild type nucleotide is G and the mutation type nucleotide is C.
+	i) Patient Name: Brayden
+	ii) Black Mold is Mutant-Type
+	iii) Mutant Nucleotide: C at Position: 13 Sequence: seq43204 occuring at a frequency of 36.485865724381625% at 20651 reads
+	iv) Wild Type: G point mutated at Position-13 to Mutant Type: C
+
+Sample Bridget has a `Orange Mold` which is caused by a mutation in `position 83` occuring at a frequency of `36.498333333333335%` in sequence `seq43499` over the course of `21899 reads`.
+* The wild type nucleotide is G and the mutation type nucleotide is C.
+	i) Patient Name: Bridget
+	ii) Orange Mold is Mutant-Type
+	iii) Mutant Nucleotide: C at Position: 83 Sequence: seq43499 occuring at a frequency of 36.498333333333335% at 21899 reads
+	iv) Wild Type: G point mutated at Position-83 to Mutant Type: C
+
+Sample Bruce has a `Orange Mold` which is caused by a mutation in `position 83` occuring at a frequency of `36.541133455210236%` in sequence `seq85978` over the course of `19988 reads`.
+* The wild type nucleotide is G and the mutation type nucleotide is C.
+	i) Patient Name: Bruce
+	ii) Orange Mold is Mutant-Type
+	iii) Mutant Nucleotide: C at Position: 83 Sequence: seq85978 occuring at a frequency of 36.541133455210236% at 19988 reads
+	iv) Wild Type: G point mutated at Position-83 to Mutant Type: C
+
+Sample Byron has a `Orange Mold` which is caused by a mutation in `position 83` occuring at a frequency of `36.498839907192576%` in sequence `seq71644` over the course of `15731 reads`.
+* The wild type nucleotide is G and the mutation type nucleotide is C.
+	i) Patient Name: Byron
+	ii) Orange Mold is Mutant-Type
+	iii) Mutant Nucleotide: C at Position: 83 Sequence: seq71644 occuring at a frequency of 36.498839907192576% at 15731 reads
+	iv) Wild Type: G point mutated at Position-83 to Mutant Type: C
+
+Sample Cali has a `Orange Mold` which is caused by a mutation in `position 83` occuring at a frequency of `36.5117773019272%` in sequence `seq84435` over the course of `17051 reads`.
+* The wild type nucleotide is G and the mutation type nucleotide is C.
+	i) Patient Name: Cali
+	ii) Orange Mold is Mutant-Type
+	iii) Mutant Nucleotide: C at Position: 83 Sequence: seq84435 occuring at a frequency of 36.5117773019272% at 17051 reads
+	iv) Wild Type: G point mutated at Position-83 to Mutant Type: C
+
+Sample Camilla has a `Orange Mold` which is caused by a mutation in `position 83` occuring at a frequency of `36.52607709750567%` in sequence `seq22656` over the course of `16108 reads`.
+* The wild type nucleotide is G and the mutation type nucleotide is C.
+	i) Patient Name: Camilla
+	ii) Orange Mold is Mutant-Type
+	iii) Mutant Nucleotide: C at Position: 83 Sequence: seq22656 occuring at a frequency of 36.52607709750567% at 16108 reads
+	iv) Wild Type: G point mutated at Position-83 to Mutant Type: C
+
+Sample Case has a `Black Mold` which is caused by a mutation in `position 13` occuring at a frequency of `36.48711340206186%` in sequence `seq75581` over the course of `14157 reads`.
+* The wild type nucleotide is G and the mutation type nucleotide is C.
+	i) Patient Name: Case
+	ii) Black Mold is Mutant-Type
+	iii) Mutant Nucleotide: C at Position: 13 Sequence: seq75581 occuring at a frequency of 36.48711340206186% at 14157 reads
+	iv) Wild Type: G point mutated at Position-13 to Mutant Type: C
+
+Sample Cason has a `Black Mold` which is caused by a mutation in `position 13` occuring at a frequency of `36.48979591836735%` in sequence `seq82385` over the course of `21456 reads`.
+* The wild type nucleotide is G and the mutation type nucleotide is C.
+	i) Patient Name: Cason
+	ii) Black Mold is Mutant-Type
+	iii) Mutant Nucleotide: C at Position: 13 Sequence: seq82385 occuring at a frequency of 36.48979591836735% at 21456 reads
+	iv) Wild Type: G point mutated at Position-13 to Mutant Type: C
+
+Sample Damien has a `Black Mold` which is caused by a mutation in `position 13` occuring at a frequency of `36.48421052631579%` in sequence `seq78848` over the course of `20796 reads`.
+* The wild type nucleotide is G and the mutation type nucleotide is C.
+	i) Patient Name: Damien
+	ii) Black Mold is Mutant-Type
+	iii) Mutant Nucleotide: C at Position: 13 Sequence: seq78848 occuring at a frequency of 36.48421052631579% at 20796 reads
+	iv) Wild Type: G point mutated at Position-13 to Mutant Type: C
+
+Sample Dania has a `Black Mold` which is caused by a mutation in `position 13` occuring at a frequency of `36.47923322683706%` in sequence `seq77129` over the course of `22836 reads`.
+* The wild type nucleotide is G and the mutation type nucleotide is C.
+	i) Patient Name: Dania
+	ii) Black Mold is Mutant-Type
+	iii) Mutant Nucleotide: C at Position: 13 Sequence: seq77129 occuring at a frequency of 36.47923322683706% at 22836 reads
+	iv) Wild Type: G point mutated at Position-13 to Mutant Type: C
+
+Sample Dereon has a `Orange Mold` which is caused by a mutation in `position 83` occuring at a frequency of `36.53105590062112%` in sequence `seq47440` over the course of `11763 reads`.
+* The wild type nucleotide is G and the mutation type nucleotide is C.
+	i) Patient Name: Dereon
+	ii) Orange Mold is Mutant-Type
+	iii) Mutant Nucleotide: C at Position: 83 Sequence: seq47440 occuring at a frequency of 36.53105590062112% at 11763 reads
+	iv) Wild Type: G point mutated at Position-83 to Mutant Type: C
+
+Sample Destiney has a `Orange Mold` which is caused by a mutation in `position 83` occuring at a frequency of `36.480234260614935%` in sequence `seq50417` over the course of `24916 reads`.
+* The wild type nucleotide is G and the mutation type nucleotide is C.
+	i) Patient Name: Destiney
+	ii) Orange Mold is Mutant-Type
+	iii) Mutant Nucleotide: C at Position: 83 Sequence: seq50417 occuring at a frequency of 36.480234260614935% at 24916 reads
+	iv) Wild Type: G point mutated at Position-83 to Mutant Type: C
+
+Sample Dominik has a `Black Mold` which is caused by a mutation in `position 13` occuring at a frequency of `36.53805774278215%` in sequence `seq40184` over the course of `13921 reads`.
+* The wild type nucleotide is G and the mutation type nucleotide is C.
+	i) Patient Name: Dominik
+	ii) Black Mold is Mutant-Type
+	iii) Mutant Nucleotide: C at Position: 13 Sequence: seq40184 occuring at a frequency of 36.53805774278215% at 13921 reads
+	iv) Wild Type: G point mutated at Position-13 to Mutant Type: C
+
+Sample Gabrielle has a `Orange Mold` which is caused by a mutation in `position 83` occuring at a frequency of `36.49700598802395%` in sequence `seq36219` over the course of `12190 reads`.
+* The wild type nucleotide is G and the mutation type nucleotide is C.
+	i) Patient Name: Gabrielle
+	ii) Orange Mold is Mutant-Type
+	iii) Mutant Nucleotide: C at Position: 83 Sequence: seq36219 occuring at a frequency of 36.49700598802395% at 12190 reads
+	iv) Wild Type: G point mutated at Position-83 to Mutant Type: C
+
+Sample Giancarlo has a `Orange Mold` which is caused by a mutation in `position 83` occuring at a frequency of `36.48496993987976%` in sequence `seq97829` over the course of `18206 reads`.
+* The wild type nucleotide is G and the mutation type nucleotide is C.
+	i) Patient Name: Giancarlo
+	ii) Orange Mold is Mutant-Type
+	iii) Mutant Nucleotide: C at Position: 83 Sequence: seq97829 occuring at a frequency of 36.48496993987976% at 18206 reads
+	iv) Wild Type: G point mutated at Position-83 to Mutant Type: C
+
+Sample Greta has a `Black Mold` which is caused by a mutation in `position 13` occuring at a frequency of `36.46666666666667%` in sequence `seq18070` over the course of `11487 reads`.
+* The wild type nucleotide is G and the mutation type nucleotide is C.
+	i) Patient Name: Greta
+	ii) Black Mold is Mutant-Type
+	iii) Mutant Nucleotide: C at Position: 13 Sequence: seq18070 occuring at a frequency of 36.46666666666667% at 11487 reads
+	iv) Wild Type: G point mutated at Position-13 to Mutant Type: C
+
+Sample Israel has a `Orange Mold` which is caused by a mutation in `position 83` occuring at a frequency of `36.48607594936709%` in sequence `seq11212` over the course of `14412 reads`.
+* The wild type nucleotide is G and the mutation type nucleotide is C.
+	i) Patient Name: Israel
+	ii) Orange Mold is Mutant-Type
+	iii) Mutant Nucleotide: C at Position: 83 Sequence: seq11212 occuring at a frequency of 36.48607594936709% at 14412 reads
+	iv) Wild Type: G point mutated at Position-83 to Mutant Type: C
+
+Sample Javion has a `Orange Mold` which is caused by a mutation in `position 83` occuring at a frequency of `36.48684210526316%` in sequence `seq79132` over the course of `19411 reads`.
+* The wild type nucleotide is G and the mutation type nucleotide is C.
+	i) Patient Name: Javion
+	ii) Orange Mold is Mutant-Type
+	iii) Mutant Nucleotide: C at Position: 83 Sequence: seq79132 occuring at a frequency of 36.48684210526316% at 19411 reads
+	iv) Wild Type: G point mutated at Position-83 to Mutant Type: C
+
+Sample Jaylen has a `Black Mold` which is caused by a mutation in `position 13` occuring at a frequency of `36.51367781155015%` in sequence `seq71111` over the course of `12013 reads`.
+* The wild type nucleotide is G and the mutation type nucleotide is C.
+	i) Patient Name: Jaylen
+	ii) Black Mold is Mutant-Type
+	iii) Mutant Nucleotide: C at Position: 13 Sequence: seq71111 occuring at a frequency of 36.51367781155015% at 12013 reads
+	iv) Wild Type: G point mutated at Position-13 to Mutant Type: C
+
+Sample Jazlyn has a `Yellow Mold` which is caused by a mutation in `position 120` occuring at a frequency of `61.52471482889734%` in sequence `seq42652` over the course of `32362 reads`.
+* The wild type nucleotide is C and the mutation type nucleotide is G.
+	i) Patient Name: Jazlyn
+	ii) Yellow Mold is Mutant-Type
+	iii) Mutant Nucleotide: G at Position: 120 Sequence: seq42652 occuring at a frequency of 61.52471482889734% at 32362 reads
+	iv) Wild Type: C point mutated at Position-120 to Mutant Type: G
+
+Sample Jordyn has a `Black Mold` which is caused by a mutation in `position 13` occuring at a frequency of `36.474137931034484%` in sequence `seq11690` over the course of `16924 reads`.
+* The wild type nucleotide is G and the mutation type nucleotide is C.
+	i) Patient Name: Jordyn
+	ii) Black Mold is Mutant-Type
+	iii) Mutant Nucleotide: C at Position: 13 Sequence: seq11690 occuring at a frequency of 36.474137931034484% at 16924 reads
+	iv) Wild Type: G point mutated at Position-13 to Mutant Type: C
+
+Sample Jordyna has a `Yellow Mold` which is caused by a mutation in `position 120` occuring at a frequency of `61.47540983606557%` in sequence `seq10328` over the course of `18750 reads`.
+* The wild type nucleotide is C and the mutation type nucleotide is G.
+	i) Patient Name: Jordyna
+	ii) Yellow Mold is Mutant-Type
+	iii) Mutant Nucleotide: G at Position: 120 Sequence: seq10328 occuring at a frequency of 61.47540983606557% at 18750 reads
+	iv) Wild Type: C point mutated at Position-120 to Mutant Type: G
+
+Sample Joshua has a `Black Mold` which is caused by a mutation in `position 13` occuring at a frequency of `36.46739130434783%` in sequence `seq87746` over the course of `16775 reads`.
+* The wild type nucleotide is G and the mutation type nucleotide is C.
+	i) Patient Name: Joshua
+	ii) Black Mold is Mutant-Type
+	iii) Mutant Nucleotide: C at Position: 13 Sequence: seq87746 occuring at a frequency of 36.46739130434783% at 16775 reads
+	iv) Wild Type: G point mutated at Position-13 to Mutant Type: C
+
+Sample Justus has a `Black Mold` which is caused by a mutation in `position 13` occuring at a frequency of `36.45739130434782%` in sequence `seq75521` over the course of `20963 reads`.
+* The wild type nucleotide is G and the mutation type nucleotide is C.
+	i) Patient Name: Justus
+	ii) Black Mold is Mutant-Type
+	iii) Mutant Nucleotide: C at Position: 13 Sequence: seq75521 occuring at a frequency of 36.45739130434782% at 20963 reads
+	iv) Wild Type: G point mutated at Position-13 to Mutant Type: C
+
+Sample Kamden has a `Orange Mold` which is caused by a mutation in `position 83` occuring at a frequency of `36.5248%` in sequence `seq89738` over the course of `22828 reads`.
+* The wild type nucleotide is G and the mutation type nucleotide is C.
+	i) Patient Name: Kamden
+	ii) Orange Mold is Mutant-Type
+	iii) Mutant Nucleotide: C at Position: 83 Sequence: seq89738 occuring at a frequency of 36.5248% at 22828 reads
+	iv) Wild Type: G point mutated at Position-83 to Mutant Type: C
+
+Sample Karlee has a `Yellow Mold` which is caused by a mutation in `position 120` occuring at a frequency of `61.49141965678627%` in sequence `seq81199` over the course of `39416 reads`.
+* The wild type nucleotide is C and the mutation type nucleotide is G.
+	i) Patient Name: Karlee
+	ii) Yellow Mold is Mutant-Type
+	iii) Mutant Nucleotide: G at Position: 120 Sequence: seq81199 occuring at a frequency of 61.49141965678627% at 39416 reads
+	iv) Wild Type: C point mutated at Position-120 to Mutant Type: G
+
+Sample Kayla has a `Yellow Mold` which is caused by a mutation in `position 120` occuring at a frequency of `61.49915682967959%` in sequence `seq74267` over the course of `36469 reads`.
+* The wild type nucleotide is C and the mutation type nucleotide is G.
+	i) Patient Name: Kayla
+	ii) Yellow Mold is Mutant-Type
+	iii) Mutant Nucleotide: G at Position: 120 Sequence: seq74267 occuring at a frequency of 61.49915682967959% at 36469 reads
+	iv) Wild Type: C point mutated at Position-120 to Mutant Type: G
+
+Sample Keaton has a `Green Mold` which is caused by a mutation in `position 134` occuring at a frequency of `36.4683257918552%` in sequence `seq86831` over the course of `16119 reads`.
+* The wild type nucleotide is G and the mutation type nucleotide is C.
+	i) Patient Name: Keaton
+	ii) Green Mold is Mutant-Type
+	iii) Mutant Nucleotide: C at Position: 134 Sequence: seq86831 occuring at a frequency of 36.4683257918552% at 16119 reads
+	iv) Wild Type: G point mutated at Position-134 to Mutant Type: C
+
+Sample Kian has a `Green Mold` which is caused by a mutation in `position 134` occuring at a frequency of `36.51075268817204%` in sequence `seq33179` over the course of `13582 reads`.
+* The wild type nucleotide is G and the mutation type nucleotide is C.
+	i) Patient Name: Kian
+	ii) Green Mold is Mutant-Type
+	iii) Mutant Nucleotide: C at Position: 134 Sequence: seq33179 occuring at a frequency of 36.51075268817204% at 13582 reads
+	iv) Wild Type: G point mutated at Position-134 to Mutant Type: C
+
+Sample Kirsten has a `Black Mold` which is caused by a mutation in `position 13` occuring at a frequency of `36.447284345047926%` in sequence `seq27924` over the course of `11408 reads`.
+* The wild type nucleotide is G and the mutation type nucleotide is C.
+	i) Patient Name: Kirsten
+	ii) Black Mold is Mutant-Type
+	iii) Mutant Nucleotide: C at Position: 13 Sequence: seq27924 occuring at a frequency of 36.447284345047926% at 11408 reads
+	iv) Wild Type: G point mutated at Position-13 to Mutant Type: C
+
+Sample Libby has a `Yellow Mold` which is caused by a mutation in `position 120` occuring at a frequency of `61.490196078431374%` in sequence `seq26404` over the course of `18816 reads`.
+* The wild type nucleotide is C and the mutation type nucleotide is G.
+	i) Patient Name: Libby
+	ii) Yellow Mold is Mutant-Type
+	iii) Mutant Nucleotide: G at Position: 120 Sequence: seq26404 occuring at a frequency of 61.490196078431374% at 18816 reads
+	iv) Wild Type: C point mutated at Position-120 to Mutant Type: G
+
+Sample Lorelei has a `Orange Mold` which is caused by a mutation in `position 83` occuring at a frequency of `36.48295454545455%` in sequence `seq94798` over the course of `12842 reads`.
+* The wild type nucleotide is G and the mutation type nucleotide is C.
+	i) Patient Name: Lorelei
+	ii) Orange Mold is Mutant-Type
+	iii) Mutant Nucleotide: C at Position: 83 Sequence: seq94798 occuring at a frequency of 36.48295454545455% at 12842 reads
+	iv) Wild Type: G point mutated at Position-83 to Mutant Type: C
+
+Sample Mariela has a `Yellow Mold` which is caused by a mutation in `position 120` occuring at a frequency of `61.48374760994264%` in sequence `seq46292` over the course of `32156 reads`.
+* The wild type nucleotide is C and the mutation type nucleotide is G.
+	i) Patient Name: Mariela
+	ii) Yellow Mold is Mutant-Type
+	iii) Mutant Nucleotide: G at Position: 120 Sequence: seq46292 occuring at a frequency of 61.48374760994264% at 32156 reads
+	iv) Wild Type: C point mutated at Position-120 to Mutant Type: G
+
+Sample Martin has a `Green Mold` which is caused by a mutation in `position 134` occuring at a frequency of `36.5%` in sequence `seq80479` over the course of `21462 reads`.
+* The wild type nucleotide is G and the mutation type nucleotide is C.
+	i) Patient Name: Martin
+	ii) Green Mold is Mutant-Type
+	iii) Mutant Nucleotide: C at Position: 134 Sequence: seq80479 occuring at a frequency of 36.5% at 21462 reads
+	iv) Wild Type: G point mutated at Position-134 to Mutant Type: C
+
+Sample Mckayla has a `Green Mold` which is caused by a mutation in `position 134` occuring at a frequency of `36.501612903225805%` in sequence `seq86271` over the course of `22631 reads`.
+* The wild type nucleotide is G and the mutation type nucleotide is C.
+	i) Patient Name: Mckayla
+	ii) Green Mold is Mutant-Type
+	iii) Mutant Nucleotide: C at Position: 134 Sequence: seq86271 occuring at a frequency of 36.501612903225805% at 22631 reads
+	iv) Wild Type: G point mutated at Position-134 to Mutant Type: C
+
+Sample Mckenzie has a `Black Mold` which is caused by a mutation in `position 13` occuring at a frequency of `36.505847953216374%` in sequence `seq27731` over the course of `12485 reads`.
+* The wild type nucleotide is G and the mutation type nucleotide is C.
+	i) Patient Name: Mckenzie
+	ii) Black Mold is Mutant-Type
+	iii) Mutant Nucleotide: C at Position: 13 Sequence: seq27731 occuring at a frequency of 36.505847953216374% at 12485 reads
+	iv) Wild Type: G point mutated at Position-13 to Mutant Type: C
+
+Sample Natalia has a `Green Mold` which is caused by a mutation in `position 134` occuring at a frequency of `36.480234260614935%` in sequence `seq63231` over the course of `24916 reads`.
+* The wild type nucleotide is G and the mutation type nucleotide is C.
+	i) Patient Name: Natalia
+	ii) Green Mold is Mutant-Type
+	iii) Mutant Nucleotide: C at Position: 134 Sequence: seq63231 occuring at a frequency of 36.480234260614935% at 24916 reads
+	iv) Wild Type: G point mutated at Position-134 to Mutant Type: C
+
+Sample Santiago has a `Orange Mold` which is caused by a mutation in `position 83` occuring at a frequency of `36.500745156482864%` in sequence `seq81942` over the course of `24492 reads`.
+* The wild type nucleotide is G and the mutation type nucleotide is C.
+	i) Patient Name: Santiago
+	ii) Orange Mold is Mutant-Type
+	iii) Mutant Nucleotide: C at Position: 83 Sequence: seq81942 occuring at a frequency of 36.500745156482864% at 24492 reads
+	iv) Wild Type: G point mutated at Position-83 to Mutant Type: C
+
+Sample Sarai has a `Black Mold` which is caused by a mutation in `position 13` occuring at a frequency of `36.520833333333336%` in sequence `seq46085` over the course of `17530 reads`.
+* The wild type nucleotide is G and the mutation type nucleotide is C.
+	i) Patient Name: Sarai
+	ii) Black Mold is Mutant-Type
+	iii) Mutant Nucleotide: C at Position: 13 Sequence: seq46085 occuring at a frequency of 36.520833333333336% at 17530 reads
+	iv) Wild Type: G point mutated at Position-13 to Mutant Type: C
+
+Sample Serena has a `Green Mold` which is caused by a mutation in `position 134` occuring at a frequency of `36.45940170940171%` in sequence `seq80569` over the course of `17063 reads`.
+* The wild type nucleotide is G and the mutation type nucleotide is C.
+	i) Patient Name: Serena
+	ii) Green Mold is Mutant-Type
+	iii) Mutant Nucleotide: C at Position: 134 Sequence: seq80569 occuring at a frequency of 36.45940170940171% at 17063 reads
+	iv) Wild Type: G point mutated at Position-134 to Mutant Type: C
+
+Sample Shelby has a `Yellow Mold` which is caused by a mutation in `position 120` occuring at a frequency of `61.467811158798284%` in sequence `seq93383` over the course of `28644 reads`.
+* The wild type nucleotide is C and the mutation type nucleotide is G.
+	i) Patient Name: Shelby
+	ii) Yellow Mold is Mutant-Type
+	iii) Mutant Nucleotide: G at Position: 120 Sequence: seq93383 occuring at a frequency of 61.467811158798284% at 28644 reads
+	iv) Wild Type: C point mutated at Position-120 to Mutant Type: G
+
+Sample Sienna has a `Green Mold` which is caused by a mutation in `position 134` occuring at a frequency of `36.52985074626866%` in sequence `seq99739` over the course of `19580 reads`.
+* The wild type nucleotide is G and the mutation type nucleotide is C.
+	i) Patient Name: Sienna
+	ii) Green Mold is Mutant-Type
+	iii) Mutant Nucleotide: C at Position: 134 Sequence: seq99739 occuring at a frequency of 36.52985074626866% at 19580 reads
+	iv) Wild Type: G point mutated at Position-134 to Mutant Type: C
+
+Sample Terry has a `Orange Mold` which is caused by a mutation in `position 83` occuring at a frequency of `36.47838616714697%` in sequence `seq66281` over the course of `25316 reads`.
+* The wild type nucleotide is G and the mutation type nucleotide is C.
+	i) Patient Name: Terry
+	ii) Orange Mold is Mutant-Type
+	iii) Mutant Nucleotide: C at Position: 83 Sequence: seq66281 occuring at a frequency of 36.47838616714697% at 25316 reads
+	iv) Wild Type: G point mutated at Position-83 to Mutant Type: C
+
+Sample Tristian has a `Black Mold` which is caused by a mutation in `position 13` occuring at a frequency of `36.5089058524173%` in sequence `seq28159` over the course of `14348 reads`.
+* The wild type nucleotide is G and the mutation type nucleotide is C.
+	i) Patient Name: Tristian
+	ii) Black Mold is Mutant-Type
+	iii) Mutant Nucleotide: C at Position: 13 Sequence: seq28159 occuring at a frequency of 36.5089058524173% at 14348 reads
+	iv) Wild Type: G point mutated at Position-13 to Mutant Type: C
