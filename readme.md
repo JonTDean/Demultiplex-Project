@@ -1,6 +1,10 @@
 # Demultiplex - MT - Non-DeBruijn
 
+To run the program
 
+```zsh
+py ./pipeline.py
+```
 
 ## Description
 
@@ -12,4 +16,4 @@ In order for the layman to understand the concepts, I've included a quick review
 
 [Let's Learn!](/grokGenomics.md)
 
-The [sequence file](./munge/hawkins_pooled_sequences.fastq) has barcodes(an amino acid chain) that read for the symptoms associated with the clinical data of the [patients](./munge/harrington_clinical_data.txt). By comparing and contrasting the motifs for each patient we are able to distinguish between wild types (*type of mutation*) and the reference disease [dgorgon](./munge/dgorgon_reference.fa).
+The [sequence file](./munge/hawkins_pooled_sequences.fastq) has barcodes(an amino acid chain) that read for the symptoms associated with the clinical data of the [patients](./munge/harrington_clinical_data.txt). By comparing and contrasting the motifs for each patient we are able to distinguish between wild types (*type of mutation*) and the reference disease [dgorgon](./munge/dgorgon_reference.fa). We output the munged data and store the results in a user readable text file named [report](report.txt).
